@@ -1,0 +1,42 @@
+.back1{
+	background-image: url(img/1.jpg);
+	background-color: beige;
+}
+.back2{
+	line-height: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: 30px;
+	max-width: 10000px;
+	box-shadow: 0 5px 5px rgba(0,0,0,0.8);
+}
+.back3{
+	background-color: khaki;
+}
+.back4{
+	background-color: beige;
+}
+.font{
+	font-family: Adobe Fan Heiti Std B;
+}
+.back6{
+	background-color: pink;
+}
+
+.thumbnail{
+	box-shadow: 0 5px 5px rgba(0,0,0,0.8);
+}
+
+a{
+	text-decoration:none;
+}
+
+.login{
+	font-size:25px;
+	font-family:century gothic
+}
+
+.headerTest{
+	font-family: century gothic;
+	font-size: 20px;
+}
